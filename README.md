@@ -28,3 +28,4 @@
 =======
 # csak megoldódott
 >>>>>>> 382fcd9a8ac375ad9b2c89cab35de7d9616f4b2f
+# jobb későn mint soha
